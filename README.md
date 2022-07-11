@@ -1,5 +1,5 @@
 # tcos
-The Challenge of Sequencing: Optimize task schedules based on earliest due date
+The Challenge of Sequencing: PHP implementation of Moore's Algorithm applied to Job Scheduling.
 
 
 This script is a PHP language implementation of Moore's Algorithm applied to Job Scheduling.
